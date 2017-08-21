@@ -11,4 +11,4 @@ and refresh data instead.
 
   
   
-![16x2 LCD](https://raw.githubusercontent.com/Seitanas/HD44780_library/master/img/16x2.jpg
+![16x2 LCD](https://raw.githubusercontent.com/Seitanas/HD44780_library/master/img/16x2.jpg)
