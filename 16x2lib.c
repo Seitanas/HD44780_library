@@ -45,7 +45,6 @@ void WriteLCD(char value, int command_type, int single_pass){
 }
 void ClearLCD(void){
     WriteLCD(0x01, IS_COMMAND, NORMAL); //clear display  
-    WriteLCD(0x00, IS_COMMAND, NORMAL);
     Delay5ms();
 }
 void LCDInit(void){
