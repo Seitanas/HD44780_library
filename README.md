@@ -9,6 +9,6 @@ Note:
 There is no way to clear single line. You should fill that line with spaces or clear whole LCD  
 and refresh data instead.
 
-
-
-![16x2 LCD](https://raw.githubusercontent.com/Seitanas/HD44780_library/img/16x2.jpg)
+  
+  
+![16x2 LCD](https://raw.githubusercontent.com/Seitanas/HD44780_library/master/img/16x2.jpg
